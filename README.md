@@ -3,6 +3,8 @@ Ayudya Sawitri
 
 TE-3B/4.31.20.1.05
 
+PROTOKOL KOMUNIKASI DAN SENSOR
+
 A. ESP32 Capacitive Touch Sensor
 
 Buka Arduino IDE dan upload script program berikut ke ESP32.
